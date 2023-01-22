@@ -281,7 +281,7 @@ textarea {
 }
 
 .back {
-  background: #03446a;
+  background: #123a56;
   color: white;
   transform: rotateY(180deg);
   text-align: center;
@@ -339,6 +339,12 @@ textarea {
   right: 40px;
   font-size: 35px;
   color:black;
+}
+
+#github-img:hover {
+  color: #1ba098;
+  transform: scale(1.1);
+  transition: ease 1s;
 }
 
 .front-card-content {
